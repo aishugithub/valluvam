@@ -24,6 +24,15 @@ institutional requirements.
 
 ---
 
+## System Interface
+
+The following screenshot shows the Arivoli system in use within an
+educational environment, demonstrating its student-facing interface
+and response style.
+
+![Arivoli System Screenshot](Screenshot (14).png)
+
+
 ## Key Characteristics
 
 - Compassion-focused response design
